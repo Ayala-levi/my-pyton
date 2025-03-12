@@ -12,13 +12,13 @@ This project is an interactive personality test designed to help users discover 
 To run the project, ensure that Python version 3.6 or higher is installed on your computer. No external libraries are required, as the project uses only built-in libraries.
 
 ## Operating Instructions
-1. Download the project file (e.g., personality_test.py) ⬇️.
+1. Download the project file (main.py) ⬇️.
 2. Open the terminal or command prompt ️.
 3. Navigate to the directory where the project file is located.
-4. Run the command python personality_test.py ▶️.
+4. Run the command python main.py ▶️.
 5. Follow the on-screen instructions.
 ## Project Structure
-- personality_test.py: The main Python file containing all project logic.
+- main.py: The main Python file containing all project logic.
 - user.txt: A text file used to store test results for each user (date, name, and personality type).
 ## Code Explanation
 The code consists of several main parts:
